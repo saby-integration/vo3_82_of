@@ -1,2 +1,2 @@
-v8unpack.exe -E bin\Sbis_blockly_82.epf src --index index.json
+v8unpack.exe -E bin\saby_vo3_82_of.epf src --index index.json
 pause
