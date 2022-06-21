@@ -1,10 +1,15 @@
 {
+  "Области include":{
+	"core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Обработка",
+	"core_src_Helpers_ПроверкаВерсииПродукта_ВМодулеОбъекта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_ВМодулеОбъекта",
+	"core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НазваниеПродукта",
+	"core_src_Helpers_ПроверкаВерсииПродукта_НаФорме": "core_src_Helpers_ПроверкаВерсииПродукта_Обработка_НаФорме"
+  },
   "ExternalDataProcessor.data803.json": "",
   "ExternalDataProcessor.json": "",
-  "ExternalDataProcessor.obj.1c": "core\\src\\ExternalDataProcessor.obj.1c",
   "Form": {
     "Main.form803.json": "",
     "Main.json": "",
-    "Main.obj.1c": "core\\src\\Form\\Main\\Main.obj.1c"
+    "Main.obj.1c": ""
   }
 }
