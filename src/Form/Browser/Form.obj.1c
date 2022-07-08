@@ -2,8 +2,12 @@
 #Область include_core_src_ОсобенностиПлатформы_802_Константы
 #КонецОбласти
 
-#Область include_core_src_DataProcessor_СБИС_DataProcessor
+#Область include_core_src_DataProcessor_СБИС_Form_Browser_Form
 #КонецОбласти
 
 #Область include_core_src_ОсобенностиПлатформы_802_Методы
 #КонецОбласти
+
+#Область include_core_src_ОсобенностиПлатформы_802_Форма
+#КонецОбласти
+
