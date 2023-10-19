@@ -1,0 +1,21 @@
+{
+  "Области include": {
+    "core_src_Helpers_ПроверкаВерсииПродукта_НазваниеПродукта": "base_НазваниеПродукта",
+    "core_src_ДлительныеОперации": "core_src_ДлительныеОперации_Обработка",
+    "core_src_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсии": "core_src_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсииОбработка",
+    "core_src_DataProcessor_SABY_ОсобенностиПлатформы_МодульФормы": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_МодульФормы802",
+	"core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСоСтроками": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСоСтроками802",
+	"core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_РаботаСЭлементамиОбычнойФормы",
+    "core_src_DataProcessor_SABY_ОсобенностиПлатформы_МодульОбъекта": "core_src_DataProcessor_SABY_ОсобенностиПлатформы_DataProcessor802",
+    "core_src_DataProcessor_SABY_Form_Browser_ОсобенностиПлатформы": "core_src_DataProcessor_SABY_Form_Browser_Form802",
+    "core_src_Helpers_Константы": "core_src_Helpers_Константы802",
+    "core_src_Helpers_FormGetters": "core_src_Helpers_FormGetters802",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперация802"
+  },
+  "ExternalDataProcessor.obj.1c": "core\\src\\DataProcessor\\SABY\\DataProcessor.obj.1c",
+  "Form": {
+    "Browser": {
+      "Form.obj.1c": "core\\src\\DataProcessor\\SABY\\Form\\Browser\\Form.obj.1c"
+    }
+  }
+}
