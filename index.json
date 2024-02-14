@@ -1,0 +1,72 @@
+{
+  "Области include": {
+    "core_base_ДлительныеОперации": "core_base_ДлительныеОперации_Обработка",
+    "core_base_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсии": "core_base_ПроверкаВерсии_ПолучитьИмяФайлаИНомерТекущейВерсииОбработка",
+    "core_base_ОсобенностиПлатформы_МодульФормы": "core_base_ОсобенностиПлатформы_МодульФормыОФ",
+    "core_base_ОсобенностиПлатформы_МодульОбъекта": "core_base_ОсобенностиПлатформы_МодульОбъектаОФ",
+	"core_base_ОсобенностиПлатформы_РаботаСоСтроками": "core_base_ОсобенностиПлатформы_РаботаСоСтрокамиОФ",
+	"core_base_ОсобенностиПлатформы_РаботаСЭлементамиФормы": "core_base_ОсобенностиПлатформы_РаботаСЭлементамиОФ",
+    "core_base_Авторизация_Form_Вход_ОсобенностиПриложения": "core_base_Авторизация_Form_Вход_ОсобенностиОбычногоПриложения",
+    "core_base_Настройки_Form_Настройки_ОсобенностиПриложения": "core_base_Настройки_Form_Настройки_ОсобенностиПриложенияОФ",
+    "core_base_Настройки_Form_Настройки_ОсобенностиПродукта": "core_base_Настройки_Form_Настройки_ОсобенностиПродуктаВнешняяОбработкаОбычноеПриложение",
+    "core_base_СтатусыДокументов_ОсобенностиПродукта": "core_base_СтатусыДокументов_ОсобенностиПродуктаВнешняяОбработка",
+    "core_base_Helpers_FormGetters": "core_base_Helpers_FormGetters802",
+	"core_base_АвтоматическиеОперации_РегламентнаяОперация": "core_base_АвтоматическиеОперации_РегламентнаяОперацияОФ",
+	"core_base_ГлавноеОкно_ОсобенностиПриложения": "core_base_ГлавноеОкно_ОсобенностиОбычногоПриложения",
+	"core_base_ГлавноеОкно_Form_Фильтр_ОсобенностиПриложения": "core_base_ГлавноеОкно_Form_Фильтр_ОсобенностиОбычногоПриложения",
+	"core_base_Транспорт_SabyHttpsClient_ПолучениеКомпоненты": "core_base_Транспорт_SabyHttpsClient_ПолучениеКомпонентыОФ",
+	"core_base_БазовыеКомпоненты_Формы_Browser_ОсобенностиПлатформы": "core_base_БазовыеКомпоненты_Формы_Browser_FormОФ"
+  },
+  "ExternalDataProcessor.obj.1c": "core\\base\\БазовыеКомпоненты\\DataProcessor\\DataProcessor.obj.1c",
+  "Form": {
+	"ГлавноеОкно": {
+	  "Form.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.json",
+	  "Form.form802.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.form802.json",
+	  "Form.obj.1c": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.obj.1c",
+	  "Form.elements802.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.elements802.json",
+	  "Form.props802.json": "core\\base\\ГлавноеОкно\\Form\\ГлавноеОкно\\Form.props802.json"
+	},
+	"Фильтр": {
+	  "Form.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.json",
+	  "Form.form802.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.form802.json",
+	  "Form.obj.1c": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.obj.1c",
+	  "Form.elements802.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.elements802.json",
+	  "Form.props802.json": "core\\base\\ГлавноеОкно\\Form\\Фильтр\\Form.props802.json"
+    },
+    "Вход": {
+      "Form.json": "core\\base\\Авторизация\\Form\\Вход\\Form.json",
+      "Form.form802.json": "core\\base\\Авторизация\\Form\\Вход\\Form.form802.json",
+      "Form.obj.1c": "core\\base\\Авторизация\\Form\\Вход\\Form.obj.1c",
+      "Form.props802.json": "core\\base\\Авторизация\\Form\\Вход\\Form.props802.json",
+      "Form.elements802.json": "core\\base\\Авторизация\\Form\\Вход\\Form.elements802.json"
+	},
+    "Настройки": {
+      "Form.json": "core\\base\\Настройки\\Form\\Настройки\\Form.json",
+      "Form.form802.json": "core\\base\\Настройки\\Form\\Настройки\\Form.form802.json",
+      "Form.obj.1c": "core\\base\\Настройки\\Form\\Настройки\\Form.obj.1c",
+      "Form.props802.json": "core\\base\\Настройки\\Form\\Настройки\\Form.props802.json",
+      "Form.elements802.json": "core\\base\\Настройки\\Form\\Настройки\\Form.elements802.json"
+	},
+    "Browser": {
+      "Form.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.json",
+      "Form.form802.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.form802.json",		
+      "Form.obj.1c": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.obj.1c",
+      "Form.props802.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.props802.json",
+      "Form.elements802.json": "core\\base\\БазовыеКомпоненты\\Формы\\Browser\\Form.elements802.json"
+    },
+    "ДлительнаяОперация": {
+      "Form.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.json",
+      "Form.form802.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.form802.json",
+      "Form.obj.1c": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.obj.1c",
+      "Form.props802.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.props802.json",
+      "Form.elements802.json": "core\\base\\ДлительныеОперации\\Form\\ДлительнаяОперация\\Form.elements802.json"
+	}
+  },
+  "Template": {
+	"Аккордеон.json": "core\\base\\ГлавноеОкно\\Template\\Аккордеон.json",
+	"Аккордеон.txt": "core\\base\\ГлавноеОкно\\Template\\Аккордеон.txt",
+	"СтатусыСБИС.json": "core\\base\\ГлавноеОкно\\Template\\СтатусыСБИС.json",
+	"СтатусыСБИС.c1b64": "core\\base\\ГлавноеОкно\\Template\\СтатусыСБИС.c1b64"
+  },
+  "version.bin": "version.bin"
+}
