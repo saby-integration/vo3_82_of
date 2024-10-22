@@ -1,0 +1,28 @@
+{
+  "saby_vo3_82_of": {
+      "src": "src",
+      "bin": "bin/saby_vo3_82_of.epf",
+      "temp": "temp",
+      "index": "index.json",
+      "disable": false,
+      "options": {
+        "version": "802",
+        "descent": null,
+        "gui": null,
+        "auto_include": true
+      }
+  },
+  "saby_vo3_82_of_test": {
+      "src": "src",
+      "bin": "bin/saby_vo3_82_of.test.epf",
+      "temp": "temp",
+      "index": "index.json",
+      "disable": true,
+      "options": {
+        "version": "802",
+        "descent": null,
+        "gui": null,
+        "auto_include": true
+      }
+  }
+}
